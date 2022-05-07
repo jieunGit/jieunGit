@@ -32,7 +32,7 @@
 </div>
 <br>
 
-<div align=center> ✏️ EDUCATED ✏️ </div>
+<div align=center><h4> ✏️ EDUCATED ✏️ </h4></div>
 <hr>
 <div align=center>
 (디지털컨버전스) 공공데이터 융합 웹기반 SW개발자 양성과정<br>
